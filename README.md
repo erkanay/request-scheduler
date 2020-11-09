@@ -33,4 +33,4 @@ $ python tasks.py
 # Manage The Requests
 
 After installation instructions above, 
-please use either `0.0.0.0:8000/admin` or `http://0.0.0.0:8000/api/v1/scheduler/` to manage scheduled requests.
+please use either `http://0.0.0.0:8000/admin` or `http://0.0.0.0:8000/api/v1/scheduler/` to manage scheduled requests.
